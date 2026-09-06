@@ -1,28 +1,51 @@
-<h1>Hi 👋, I'm Mert D.</h1>
-<p>An enthusiastic Full Stack Developer with expertise in web development and a love for solving problems with Python.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://bestofjs.org/logos/vuetify.svg" style="display: inline-block;"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
+## Systems profile
 
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/mertduyar" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/mertduyarr_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iMertt&show_icons=true&locale=en&layout=compact" alt="iMertt" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iMertt" alt="iMertt" /></a></p>
+<p><code>imertt@github:~$ whoami</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=imertt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F111287548%3Fu%3D4dfffb492c058109d6d6220ae69d37fbd3b6a899%26v%3D4&style=terminal" alt="imertt hero visual" />
+</p>
+
+**Mert D.** · Frontend or full-stack engineer
+
+## Runtime notes
+
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = remote
+PUBLIC_REPOS = 10
+COMMUNITY   = 0 followers</code></pre>
+
+Building useful things and learning in public.
+
+## Service toolkit
+
+<p><code>imertt@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=imertt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F111287548%3Fu%3D4dfffb492c058109d6d6220ae69d37fbd3b6a899%26v%3D4&style=terminal" alt="imertt stack visual" />
+</p>
+
+## System signals
+
+<table>
+<tr><td align="center"><b>10</b><br/><sub>repos</sub></td><td align="center"><b>3</b><br/><sub>stars</sub></td><td align="center"><b>11</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Reliable work
+
+- [ChessMaster](https://github.com/iMertt/ChessMaster) — Python · 0 stars
+- [FaceDetectionApplication](https://github.com/iMertt/FaceDetectionApplication) — Python · 0 stars
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=imertt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F111287548%3Fu%3D4dfffb492c058109d6d6220ae69d37fbd3b6a899%26v%3D4" alt="imertt heatmap visual" />
+</p>
+
+## Open a channel
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=imertt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F111287548%3Fu%3D4dfffb492c058109d6d6220ae69d37fbd3b6a899%26v%3D4" alt="imertt social visual" />
+</p>
+
+<a href="https://github.com/imertt">GitHub</a> · <a href="https://mertduyarweb.com.tr/">Website</a>
+
+<p align="center"><sub>Mert D. · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
